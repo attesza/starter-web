@@ -1,0 +1,47 @@
+[33mcommit 21425fbc5419de26746d19942a6314b38cbd2128[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: alcsuti <alcsutia@gmail.com>
+Date:   Mon Feb 3 08:58:38 2020 +0100
+
+    deleteing level1 and all children
+
+[33mcommit 29f9b784e077da2a94d722d4be13f3bc3d6a6004[m
+Author: alcsuti <alcsutia@gmail.com>
+Date:   Mon Feb 3 08:56:18 2020 +0100
+
+    deleted hipstet.txt file
+
+[33mcommit c030cc12ded0200342948adb97a1f1f051287b78[m
+Author: alcsuti <alcsutia@gmail.com>
+Date:   Mon Feb 3 08:51:42 2020 +0100
+
+    deleting new file
+
+[33mcommit 774ed62758131bb84fc4ba4bb790aa5b576bdde9[m
+Author: alcsuti <alcsutia@gmail.com>
+Date:   Fri Jan 31 11:46:59 2020 +0100
+
+    renaming level1 file
+
+[33mcommit 574899c2383f6c6a0c747e972ab4037a88f4546e[m
+Author: alcsuti <alcsutia@gmail.com>
+Date:   Fri Jan 31 11:44:41 2020 +0100
+
+    moving level 2 file back to level 2 directory
+
+[33mcommit 63b8f046c4a66b5ab8490c82938ecae7b1f53a79[m
+Author: alcsuti <alcsutia@gmail.com>
+Date:   Fri Jan 31 11:42:43 2020 +0100
+
+    movin file from level2 to level 3
+
+[33mcommit 6c31b71f1bc6f245cc09a6f01068ced64856b9fc[m
+Author: alcsuti <alcsutia@gmail.com>
+Date:   Fri Jan 31 11:38:54 2020 +0100
+
+    renaming level 2 file
+
+[33mcommit dd077d139b7aa6f5955c83bac7288571269b3094[m
+Author: alcsuti <alcsutia@gmail.com>
+Date:   Fri Jan 31 11:37:03 2020 +0100
+
+    renaming level3 file
